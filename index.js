@@ -4,4 +4,8 @@ function contarAteDez() {
   }
 }
 
-contarAteDez();
+//adicionando nova função para contribuição do projeto colabore
+
+function novafunção (){
+  return true
+}
